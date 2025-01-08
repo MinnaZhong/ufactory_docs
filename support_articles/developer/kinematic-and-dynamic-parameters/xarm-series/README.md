@@ -34,7 +34,7 @@ If ⑪ is B,  the robotic arm is model1/model3:
 
 1\) If ⑧ is a letter, the model of the UFACTORY xArm is **model 3.**
 
-2\) If ⑧⑨ is 21, the model of the UFACTORY xArm is **model 3.**
+2\) If ⑧⑨ is 21 or 22, the model of the UFACTORY xArm is **model 3.**
 
 3\) If ⑥⑦ is 04-12 and the position ⑧⑨ is 20, the model of the UFACTORY xArm is **model 3** (such as 0420).
 
