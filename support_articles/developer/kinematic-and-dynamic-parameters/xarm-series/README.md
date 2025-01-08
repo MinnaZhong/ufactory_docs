@@ -6,11 +6,7 @@ description: Kinematic and Dynamic Parameters of xArm Series
 
 The purpose of this article is to guide the user to distinguish the model of UFactory xArm by SN.
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/SerialNumber (1).png" alt="" width="496"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/SerialNumber (1).png" alt="" width="496"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
 ①: stands for the number of axes of the arm.
@@ -36,9 +32,13 @@ If ⑪ is L,  the robotic arm is **model 2**.
 
 If ⑪ is B,  the robotic arm is model1/model3:
 
-&#x20;  1\) If ⑥⑦ is 04-12 and the position ⑧⑨ is 20, the model of the UFACTORY xArm is **model 3** (such as 0420).
+1\) If ⑧ is a letter, the model of the UFACTORY xArm is **model 3.**
 
-&#x20;  2\) If  ⑥⑦⑧⑨ is other numbers, the model of the UFACTORY Arm is **model 1.**
+2\) If ⑧⑨ is 21, the model of the UFACTORY xArm is **model 3.**
+
+3\) If ⑥⑦ is 04-12 and the position ⑧⑨ is 20, the model of the UFACTORY xArm is **model 3** (such as 0420).
+
+4\) If  ⑥⑦⑧⑨ is other numbers, the model of the UFACTORY xArm is **model 1.**
 
 
 
